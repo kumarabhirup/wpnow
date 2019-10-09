@@ -24,4 +24,8 @@ $ now secret add wordpress_salt <RANDOM SECRET STRING>
 $ now # 🚀
 ```
 
-> Note: You need a remote MySQL database to connect your WordPress to it. Look out for options online to host a MySQL database.
+## Extra info
+
+- Rename the `.sample.env` to `.env` for using different environment variables on local machine.
+
+- You need a remote MySQL database to connect your WordPress to it. Look out for options online to host a MySQL database.
