@@ -4,7 +4,11 @@
 
 ## 🖥️ Spin up a WordPress Website
 
-Run the following commands to spin up a WordPress instance.
+- Change the `easywp` alias to something different in `now.json` file.
+
+- Set up a remote MySQL Database to get Database credentials.
+
+- Run the following commands to spin up a WordPress instance.
 
 ```bash
 $ git clone https://github.com/KumarAbhirup/wpnow <PROJECT_NAME>
