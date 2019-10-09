@@ -2,8 +2,6 @@
 
 **⚡️ Easy WordPress boilerplate with now.sh workflow and documentation.**
 
----
-
 ## 🖥️ Spin up a WordPress Website
 
 Run the following commands to spin up a WordPress instance.
