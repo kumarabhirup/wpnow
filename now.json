@@ -2,7 +2,7 @@
   "version": 2,
   "name": "wpnow",
   "public": true,
-  "alias": ["wpnow"],
+  "alias": ["easywp"],
   "builds": [{
     "src": "wp-config.php",
     "use": "@now/wordpress"
